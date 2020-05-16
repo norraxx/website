@@ -25,3 +25,5 @@ RUN yarn --prod
 CMD PORT=3000 npm start
 
 EXPOSE 3000
+
+# some shit
